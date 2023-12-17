@@ -95,3 +95,5 @@ cv2.imwrite(os.path.join("C:/Users/18336/Documents/GSGNet-main/test/output", fil
 ```
 
 `inference.py`中的这一行代码用于定义生成预测的显著图的位置。
+
+预训练的模型在百度网盘链接中链接：https://pan.baidu.com/s/15PIatX95OEH4rGNzjZU5ag?pwd=eiee 
