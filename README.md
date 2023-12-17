@@ -52,9 +52,14 @@ cfg.SOLVER.MAX_EPOCH = 30
 
 数据集结构应该是（具体应参照给出的csv文件）
 
-<img src="C:\Users\18336\AppData\Roaming\Typora\typora-user-images\image-20231217174922850.png" alt="image-20231217174922850" style="zoom:80%;" />
-
-<img src="C:\Users\18336\AppData\Roaming\Typora\typora-user-images\image-20231217174938776.png" alt="image-20231217174938776" style="zoom:80%;" />
+dataset
+|--type0
+   |--images
+   |--maps
+|--type1
+|--type2
+|--type3
+|--type4
 
 ------
 
